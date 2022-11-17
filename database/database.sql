@@ -1,4 +1,4 @@
---This is a 
+--This is a test
 -- PostgreSQL database dump
 --
 
